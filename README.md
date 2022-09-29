@@ -1,3 +1,5 @@
-# Microfrontend-React-Angular
+Demo implementation of Microfrontend using Moduel Fedrartion 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-mzby1p)
+Shell-> angular
+Child1->angular
+Child 2-> recat
